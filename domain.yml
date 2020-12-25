@@ -19,7 +19,7 @@ templates:
   utter_subscriber:
     - text: Your subscriber count is {count}.
   utter_name:
-    - text: "My name is Innovate."	
+    - text: "My name is Lucy."	
 actions:
 - utter_greet
 - utter_iamabot
